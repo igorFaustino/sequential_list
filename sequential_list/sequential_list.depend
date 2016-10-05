@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1475673920 source:/home/igor/programacao/list/sequential_list/sequential_list/main.cpp
+	<iostream>
+	"sequential_list.h"
+
+1475674012 /home/igor/programacao/list/sequential_list/sequential_list/include/sequential_list.h
+	<iostream>
+	<string>
+
